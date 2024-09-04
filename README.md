@@ -2,6 +2,8 @@
 All Documents Related to My Bachelor Thesis. 
 Programfiles will later be added here and can currently be found [here](https://git.noc.ruhr-uni-bochum.de/kowolb99/anode).
 
+
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
